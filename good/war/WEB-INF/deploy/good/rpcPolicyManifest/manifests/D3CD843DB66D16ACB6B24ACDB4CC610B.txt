@@ -1,0 +1,2 @@
+serviceClass: com.silverheart.client.GreetingService
+path: 86C2DC3BC4C0F4B723E6D30472DAC1B0.gwt.rpc

@@ -1,0 +1,86 @@
+/** Add css rules here for your application. */
+/** Example rules used by the template application (remove for your app) */
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	color: #777777;
+	margin: 40px 0px 70px;
+	text-align: center;
+}
+
+.sendButton {
+	display: block;
+	font-size: 16pt;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+	width: 400px;
+}
+
+.dialogVPanel {
+	margin: 5px;
+}
+
+.serverResponseLabelError {
+	color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+	margin: 15px 6px 6px;
+}
+
+/* .cw-DockPanel td {
+	border: 1px solid #BBBBBB;
+	padding: 3px;
+} */
+#loading {
+	display: block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	text-align: center;
+	margin-top: -100px;
+	margin-left: -150px;
+}
+
+#papa-loading {
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+#main {
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.cofee {
+	background-color: #5E412F;
+	color: white;
+}
+
+.milk {
+	background-color: white;
+	color: #5E412F;
+}
+.justBold{
+	font-weight: bold;
+}
+.comment{
+	padding-bottom: 10px;
+}
+
+.headings{
+	font-weight: bold;
+	color: #F07818;
+}
